@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm vinayak, a full-stack developer and data science enthusiast, having recently completed my undergraduate degree. I specialize in building robust, scalable web applications and am deeply passionate about integrating machine learning and data analytics into modern software solutions. 
+I'm Vinayak, a full-stack developer and data science enthusiast, having recently completed my undergraduate degree. I specialize in building robust, scalable web applications and am deeply passionate about integrating machine learning and data analytics into modern software solutions.
 
 Currently, I'm leveling up my architecture by transitioning to TypeScript, building more secure authentication flows, and bridging the gap between intelligent ML models and user-facing full-stack apps.
 
@@ -21,4 +21,5 @@ Currently, I'm leveling up my architecture by transitioning to TypeScript, build
 * **Volunteer Management System:** A localized PHP & MySQL application built using XAMPP to streamline and manage entry-level volunteer coordination.
 
 ### 📫 Let's Connect!
-https://www.linkedin.com/in/vinayakingawale | vinayakingawale1495@gmail.com
+* **LinkedIn:** [linkedin.com/in/vinayakingawale](https://www.linkedin.com/in/vinayakingawale)
+* **Email:** [vinayakingawale1495@gmail.com](mailto:vinayakingawale1495@gmail.com)
